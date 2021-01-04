@@ -1,10 +1,10 @@
 Tic Tac Toe
 ==============
 
-Author: **[Afaan Bilal](https://afaan.me)**  
+Author: **[Afaan Bilal](https://afaan.dev)**  
 
-##### Project page: [afaan.ml/Tic-Tac-Toe](https://afaan.me/Tic-Tac-Toe)
-##### Download: [Executable, V0.1.1](https://afaan.me/Tic-Tac-Toe/TicTacToe-cpp-console-Executable.zip)
+##### Project page: [afaan.dev/Tic-Tac-Toe](https://afaan.dev/Tic-Tac-Toe)
+##### Download: [Executable, V0.1.1](https://afaan.dev/Tic-Tac-Toe/TicTacToe-cpp-console-Executable.zip)
 
 ## Introduction
 **Tic Tac Toe** is a small C++ console app to play the simple game of *Tic Tac Toe*, 
